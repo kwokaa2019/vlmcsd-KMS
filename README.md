@@ -1,3 +1,5 @@
+搭建本地KMS伺服器
+
 先去下載最新的vlmcsd
 
 https://forums.mydigitallife.net/threads/emulated-kms-servers-on-non-windows-platforms.50234/
