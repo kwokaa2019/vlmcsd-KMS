@@ -9,6 +9,6 @@ https://forums.mydigitallife.net/threads/emulated-kms-servers-on-non-windows-pla
 
 如果你打算讓這個虛擬機開機就啟動一直到關機跟著電腦就用WMware Workstation Player
 
-https://www.vmware.com/cn/products/workstation-player/workstation-player-evaluation.html
+https://www.vmware.com/tw/products/workstation-player/workstation-player-evaluation.html
 
 
